@@ -1,11 +1,9 @@
 <!-- HERO ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Applied+AI+%7C+Agentic+AI+%7C+LLMs;Prompt+Engineering+%7C+RAG+Systems;Building+Real-World+Production+AI;1st+Runner-Up+%7C+Maveric+Effect+AI+Challenge+2025" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1200&color=00FFF0&center=true&vCenter=true&width=950&lines=Hi%2C+I+am+Vedant+Kalal;AI%2FML+%26+GenAI+Developer;FastAPI+%7C+LangGraph+%7C+LLMs;Building+Scalable+AI+Products" />
 </p>
 
 ---
-
-## 👋 Quick Intro
 
 Hi, I’m **Vedant Kalal** — an **AI & Machine Learning Engineer** specializing in  
 **Applied AI, Data Science, Agentic AI, Prompt Engineering, and RAG-based LLM systems**.
@@ -99,7 +97,9 @@ Hi, I’m **Vedant Kalal** — an **AI & Machine Learning Engineer** specializin
 
 ##  Contribution 
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vedant-kalal/vedant-kalal/output/github-snake-neon.svg" />
+</p>
 
 ---
 
