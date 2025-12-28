@@ -1,20 +1,20 @@
 <!-- HERO ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1200&color=00FFF0&center=true&vCenter=true&width=950&lines=Hi%2C+I+am+Vedant+Kalal;AI%2FML+%26+GenAI+Developer;FastAPI+%7C+LangGraph+%7C+LLMs;Building+Scalable+AI+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1200&color=00FFF0&center=true&vCenter=true&width=950&lines=Hi%2C+I+am+Vedant+Kalal;AI%2FML+%26+GenAI+Developer!" />
 </p>
 
 ---
 
-Hi, I’m **Vedant Kalal** — an **AI & Machine Learning Engineer** specializing in  
-**Applied AI, Data Science, Agentic AI, Prompt Engineering, and RAG-based LLM systems**.
+Hi, I’m **Vedant Kalal** — an **AI & Machine Learning Engineer**,
+currently pursuing **B.Tech in CSE (AI/ML)** at **New LJ Institute of Technology, Ahmedabad (3rd Year)**,
+with hands-on industry experience through a **6-month AI/ML internship at Sculptsoft**,
+currently working there **part-time as an AI/ML Engineer**.specializing in  
+
+**Applied AI, Data Science, ML, Backend, Agentic AI, Prompt Engineering, and RAG-based LLM systems**.
 
 🥈 **1st Runner-Up – Maveric Effect AI Challenge 2025**  
-🚀 Built multiple **real-world, production-ready AI applications**
+🚀 Built multiple **real-world, production-ready AI applications**  
 
-- 🏫 **AI School OS** — AI-driven education & school management platform (startup)  
-- 🌍 **DHARTI** — AI for land, governance & decision-support systems  
-- 🐄 **AI Cattle Farm System** — intelligent livestock monitoring & analytics  
-- 🤖 OCR, NLP & document-intelligence systems used beyond academic demos  
 
 - 🏢 **6-month AI/ML Internship at Sculptsoft**, currently **working part-time as AI/ML Engineer**  
 
