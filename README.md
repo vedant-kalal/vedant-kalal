@@ -93,13 +93,6 @@ I am specializing in **Applied AI, Data Science, Machine Learning,Deep Learning,
 
 ---
 
-##  Contribution 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vedant-kalal/vedant-kalal/output/github-snake-neon.svg" />
-</p>
-
----
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=vedant-kalal&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -107,14 +100,7 @@ I am specializing in **Applied AI, Data Science, Machine Learning,Deep Learning,
 
 ---
 
-👁️ **Profile Views**  
-<p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=vedant-kalal&label=Profile%20Views&color=0&icon=5" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=vedant-kalal&icon=2&color=12" />
-</p>
+👁️ **Profile Views**
+<br/>
+<img src="https://komarev.com/ghpvc/?username=vedant-kalal&label=Profile%20Views&color=blueviolet&style=flat-square" />
 
