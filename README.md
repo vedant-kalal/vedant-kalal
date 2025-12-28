@@ -96,7 +96,7 @@ I am specializing in **Applied AI, Data Science, Machine Learning,Deep Learning,
 ##  Contribution 
 
 <p align="center">
-  <img src="https://github-contribution-calendar.vercel.app/?username=vedant-kalal" />
+  <img src="https://github-contribution-calendar.vercel.app/?username=vedant-kalal&theme=dark" />
 </p>
 
 ---
