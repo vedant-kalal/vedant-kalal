@@ -93,11 +93,12 @@ I am specializing in **Applied AI, Data Science, Machine Learning,Deep Learning,
 
 ---
 
-##  Contribution 
+## 🟩 Contribution Activity
 
 <p align="center">
-  <img src="https://github-contribution-calendar.vercel.app/?username=vedant-kalal&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedant-kalal&theme=github_dark" />
 </p>
+
 
 ---
 
@@ -108,6 +109,7 @@ I am specializing in **Applied AI, Data Science, Machine Learning,Deep Learning,
 ---
 
 👁️ **Profile Views**
+
 <br/>
 <img src="https://komarev.com/ghpvc/?username=vedant-kalal&label=Profile%20Views&color=blueviolet&style=flat-square" />
 
