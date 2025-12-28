@@ -1,104 +1,125 @@
-# 💫 About Me
-
-Hi, I’m **Vedant Kalal** 👨‍💻  
-An **AI & Machine Learning Engineer** and **3rd-year B.Tech CSE (AI/ML) student** at **New LJ Institute of Technology**, passionate about building **real-world, scalable, and production-ready AI systems**.  
-
-Currently, I’m working **part-time as an AI/ML Engineer at Sculptsoft**, where I gain hands-on experience deploying AI solutions beyond experimentation and research prototypes.
-
-I enjoy transforming complex problems into **practical, usable AI products** using **Machine Learning, Deep Learning, and Agentic AI architectures**. My focus lies in **applied AI**, where models are reliable, interpretable, and impactful in real-world scenarios—not just limited to notebooks.
+<!-- HERO ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Applied+AI+%7C+Agentic+AI+%7C+LLMs;Prompt+Engineering+%7C+RAG+Systems;Building+Real-World+Production+AI;1st+Runner-Up+%7C+Maveric+Effect+AI+Challenge+2025" />
+</p>
 
 ---
 
-## 🚀 What I’m Currently Focused On
+## 👋 Quick Intro
 
-- Designing **end-to-end AI systems** using **FastAPI, LangGraph, and modern LLM frameworks**
-- Building **agentic AI workflows** (task decomposition, reasoning, validation, automation)
-- Developing **OCR + NLP pipelines** for handwritten and scanned document understanding
-- Creating **AI-driven evaluation systems** for automated grading and educational analytics
-- Implementing **knowledge extraction & intelligent content generation** from unstructured text
-- Building **full-stack AI applications** with robust backends and intuitive UIs
+Hi, I’m **Vedant Kalal** — an **AI & Machine Learning Engineer** specializing in  
+**Applied AI, Data Science, Agentic AI, Prompt Engineering, and RAG-based LLM systems**.
 
-I strongly believe in **clean architecture, reproducibility, scalability, and long-term maintainability** of AI systems.
+🥈 **1st Runner-Up – Maveric Effect AI Challenge 2025**  
+🚀 Built multiple **real-world, production-ready AI applications**
 
----
+- 🏫 **AI School OS** — AI-driven education & school management platform (startup)  
+- 🌍 **DHARTI** — AI for land, governance & decision-support systems  
+- 🐄 **AI Cattle Farm System** — intelligent livestock monitoring & analytics  
+- 🤖 OCR, NLP & document-intelligence systems used beyond academic demos  
 
-## 🧠 My Interests
+- 🏢 **6-month AI/ML Internship at Sculptsoft**, currently **working part-time as AI/ML Engineer**  
 
-- Artificial Intelligence & Machine Learning  
-- Deep Learning & Computer Vision  
-- Natural Language Processing (NLP)  
-- Agentic AI & Multi-Agent Systems (LangGraph)  
-- MLOps & scalable AI infrastructure  
-- Open-source development  
-- Hackathons & research-oriented projects  
-
-I’m particularly interested in how AI can **automate manual, repetitive, and biased processes**, especially in **education, evaluation, and decision-support systems**.
+📧 **vedantkalal28@gmail.com**  
+🔗 **https://github.com/vedant-kalal**  
+💼 **https://linkedin.com/in/vedant-kalal**
 
 ---
 
-## 🌐 Socials
+## 🧰 Total Tech Stack
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedant_kalal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-kalal)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedantkalal28@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 🗣️ Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-**AI / ML**  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Backend & APIs**  
+### 🧠 Artificial Intelligence & Machine Learning
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+### 🤖 Agentic AI, LLMs & Prompt Engineering
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-008CFF?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector%20Databases-00BFA5?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-ff69b4?style=for-the-badge)
+
+---
+
+### 📊 Data Science & Data Cleaning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+### 📈 Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-0C55A5?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+---
+
+### 🧠 Computer Vision & OCR
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=white)
+![OCR](https://img.shields.io/badge/OCR-4B8BBE?style=for-the-badge)
+
+---
+
+### ⚙️ Backend Development & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-orange?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 
-**Frontend & Visualization**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+---
 
-**Databases**  
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+### 🗄️ Databases & ORM
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-323232?style=for-the-badge&logo=sqlalchemy&logoColor=red)
 
-**Cloud, DevOps & Tools**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-000000.svg?style=for-the-badge&logo=nvidia&logoColor=green)
+---
+
+### ☁️ Cloud, DevOps & Tooling
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=green)
+
+---
+
+## 📈 Daily Contribution Map
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vedant-kalal&theme=react-dark)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=vedant-kalal&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=vedant-kalal&theme=github_dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-kalal&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedant-kalal&theme=github_dark&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-kalal&theme=github-dark" height="160"/>
+</p>
 
 ---
 
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=vedant-kalal&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=vedant-kalal&icon=2&color=12" />
+</p>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=vedant-kalal&icon=2&color=0)](https://visitcount.itsvg.in)
-
+<!-- Clean. Honest. Production-grade. -->
