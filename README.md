@@ -96,8 +96,8 @@ I am specializing in **Applied AI, Data Science, Machine Learning,Deep Learning,
 ##  Contribution 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vedant-kalal/vedant-kalal/output/github-contribution-grid-snake-dark.svg" />
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedant-kalal&theme=react&hide_border=true&area=true" />
+</p>>
 
 ---
 
