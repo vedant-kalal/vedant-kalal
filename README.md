@@ -99,7 +99,6 @@ I am specializing in **Applied AI, Data Science, Machine Learning,Deep Learning,
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedant-kalal&theme=github_dark" />
 </p>
 
-
 ---
 
 # 📊 GitHub Stats
