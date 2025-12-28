@@ -102,8 +102,10 @@ I am specializing in **Applied AI, Data Science, Machine Learning,Deep Learning,
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=vedant-kalal&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vedant-kalal&theme=github_dark&hide_border=false)<br/>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedant-kalal&theme=github_dark" />
+</p>
 
 ---
 
