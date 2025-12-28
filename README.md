@@ -5,19 +5,17 @@
 
 ---
 
-Hi, I’m **Vedant Kalal** — an **AI & Machine Learning Engineer**,
-currently pursuing **B.Tech in CSE (AI/ML)** at **New LJ Institute of Technology, Ahmedabad (3rd Year)**,
-with hands-on industry experience through a **6-month AI/ML internship at Sculptsoft**,
-currently working there **part-time as an AI/ML Engineer**.specializing in  
+Hi, I’m **Vedant Kalal** — an **AI & Machine Learning Engineer**, currently pursuing **B.Tech in CSE (AI/ML)** at **New LJ Institute of Technology, Ahmedabad (3rd Year)**.  
+I have hands-on industry experience from a **6-month AI/ML internship at Sculptsoft** and am currently working there **part-time as an AI/ML Engineer**.
 
-**Applied AI, Data Science, ML, Backend, Agentic AI, Prompt Engineering, and RAG-based LLM systems**.
+I am specializing in **Applied AI, Data Science, Machine Learning,Deep Learning, Backend Systems, Agentic AI, Prompt Engineering, and RAG-based LLM architectures**.
 
 🥈 **1st Runner-Up – Maveric Effect AI Challenge 2025**  
-🚀 Built multiple **real-world, production-ready AI applications**  
+🚀 Built multiple **real-world, production-ready AI applications**
 
+--- 
 
-- 🏢 **6-month AI/ML Internship at Sculptsoft**, currently **working part-time as AI/ML Engineer**  
-
+## Connect me 
 📧 **vedantkalal28@gmail.com**  
 🔗 **https://github.com/vedant-kalal**  
 💼 **https://linkedin.com/in/vedant-kalal**
