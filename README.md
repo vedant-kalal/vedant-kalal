@@ -15,7 +15,7 @@ I am specializing in **Applied AI, Data Science, Machine Learning,Deep Learning,
 
 --- 
 
-## Connect me 
+## 📫 Connect me 
 📧 **vedantkalal28@gmail.com**  
 🔗 **https://github.com/vedant-kalal**  
 💼 **https://linkedin.com/in/vedant-kalal**
@@ -104,7 +104,13 @@ I am specializing in **Applied AI, Data Science, Machine Learning,Deep Learning,
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=vedant-kalal&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vedant-kalal&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-kalal&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+👁️ **Profile Views**  
+<p align="left">
+  <img src="https://visitcount.itsvg.in/api?id=vedant-kalal&label=Profile%20Views&color=0&icon=5" />
+</p>
 
 ---
 
@@ -112,4 +118,3 @@ I am specializing in **Applied AI, Data Science, Machine Learning,Deep Learning,
   <img src="https://visitcount.itsvg.in/api?id=vedant-kalal&icon=2&color=12" />
 </p>
 
-<!-- Clean. Honest. Production-grade. -->
