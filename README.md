@@ -26,7 +26,7 @@ Hi, I’m **Vedant Kalal** — an **AI & Machine Learning Engineer** specializin
 
 ---
 
-## 🧰 Total Tech Stack
+## 🧰 Tech Stack
 
 ### 🗣️ Programming Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -97,24 +97,20 @@ Hi, I’m **Vedant Kalal** — an **AI & Machine Learning Engineer** specializin
 
 ---
 
-## 📈 Daily Contribution Map
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vedant-kalal&theme=react-dark)
-
----
-
-## 🐍 Contribution Snake
+##  Contribution 
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedant-kalal&theme=github_dark&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-kalal&theme=github-dark" height="160"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=vedant-kalal&theme=github_dark&hide_border=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=vedant-kalal&theme=github-dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-kalal&theme=github_dark&layout=compact)
+>
 
 ---
 
