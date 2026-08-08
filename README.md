@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="vedant-kalal's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <!-- HERO ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1200&color=00FFF0&center=true&vCenter=true&width=950&lines=Hi%2C+I+am+Vedant+Kalal;AI%2FML+%26+GenAI+Developer!" />
