@@ -1,6 +1,9 @@
-<p align="center">
-  <img alt="vedant-kalal's GitHub profile terminal reveal" src="portrait_reveal.svg" />
-</p>
+<table align="center">
+  <tr>
+    <td><img alt="vedant-kalal's ASCII portrait, revealing line by line" src="portrait_reveal.svg" width="420" /></td>
+    <td valign="top"><img alt="vedant-kalal's GitHub stats" src="stats_panel.svg" /></td>
+  </tr>
+</table>
 
 <!-- HERO ANIMATION -->
 <p align="center">
