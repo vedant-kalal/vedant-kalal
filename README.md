@@ -1,14 +1,14 @@
+<!-- HERO ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1200&color=00FFF0&center=true&vCenter=true&width=950&lines=Hi%2C+I+am+Vedant+Kalal;AI%2FML+%26+GenAI+Developer!" />
+</p>
+
 <table align="center">
   <tr>
     <td><img alt="vedant-kalal's ASCII portrait, revealing line by line" src="portrait_reveal.svg" width="420" /></td>
     <td valign="top"><img alt="vedant-kalal's GitHub stats" src="stats_panel.svg" /></td>
   </tr>
 </table>
-
-<!-- HERO ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1200&color=00FFF0&center=true&vCenter=true&width=950&lines=Hi%2C+I+am+Vedant+Kalal;AI%2FML+%26+GenAI+Developer!" />
-</p>
 
 ---
 
