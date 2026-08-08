@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00e5c7&height=150&section=header&text=SYSTEM%20ONLINE&fontColor=00e5c7&fontSize=32&fontAlignY=62&animation=fadeIn" width="100%" />
-</p>
-
 <!-- HERO ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1200&color=00FFF0&center=true&vCenter=true&width=950&lines=Hi%2C+I+am+Vedant+Kalal;AI%2FML+%26+GenAI+Developer!" />
