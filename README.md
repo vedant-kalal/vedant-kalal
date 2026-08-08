@@ -15,7 +15,7 @@
 <p align="center"><code>&gt; identity_matrix.load("vedant-kalal") ... access granted ⚡</code></p>
 
 Hi, I'm **Vedant Kalal** — an **AI & Machine Learning Engineer**, currently pursuing **B.Tech in CSE (AI/ML)** at **New LJ Institute of Technology, Ahmedabad (4th Year)**.
-I have hands-on industry experience from a **6-month AI/ML internship at Sculptsoft** and am currently working there **part-time as an AI/ML Engineer**.
+I have hands-on industry experience from a **6-month AI/ML internship at Sculptsoft** and am currently working there **full-time as an AI/ML Engineer**.
 
 I am specializing in **Applied AI, Data Science, Machine Learning, Deep Learning, Backend Systems, Agentic AI, Prompt Engineering, and RAG-based LLM architectures**.
 
@@ -42,6 +42,9 @@ I am specializing in **Applied AI, Data Science, Machine Learning, Deep Learning
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
 </p>
 
+<p align="center"><img src="subdivider.svg" width="70%" height="2" /></p>
+<br/>
+
 ### 🧠 Artificial Intelligence & Machine Learning
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -50,6 +53,9 @@ I am specializing in **Applied AI, Data Science, Machine Learning, Deep Learning
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
+
+<p align="center"><img src="subdivider.svg" width="70%" height="2" /></p>
+<br/>
 
 ### 🤖 Agentic AI, LLMs & Prompt Engineering
 <p align="center">
@@ -61,12 +67,18 @@ I am specializing in **Applied AI, Data Science, Machine Learning, Deep Learning
 <img src="https://img.shields.io/badge/Prompt%20Engineering-ff69b4?style=for-the-badge" />
 </p>
 
+<p align="center"><img src="subdivider.svg" width="70%" height="2" /></p>
+<br/>
+
 ### 📊 Data Science & Data Cleaning
 <p align="center">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
+
+<p align="center"><img src="subdivider.svg" width="70%" height="2" /></p>
+<br/>
 
 ### 📈 Data Visualization
 <p align="center">
@@ -75,11 +87,17 @@ I am specializing in **Applied AI, Data Science, Machine Learning, Deep Learning
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
+<p align="center"><img src="subdivider.svg" width="70%" height="2" /></p>
+<br/>
+
 ### 🧿 Computer Vision & OCR
 <p align="center">
 <img src="https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/OCR-4B8BBE?style=for-the-badge" />
 </p>
+
+<p align="center"><img src="subdivider.svg" width="70%" height="2" /></p>
+<br/>
 
 ### ⚙️ Backend Development & APIs
 <p align="center">
@@ -88,6 +106,9 @@ I am specializing in **Applied AI, Data Science, Machine Learning, Deep Learning
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
 </p>
 
+<p align="center"><img src="subdivider.svg" width="70%" height="2" /></p>
+<br/>
+
 ### 🗄️ Databases & ORM
 <p align="center">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -95,6 +116,9 @@ I am specializing in **Applied AI, Data Science, Machine Learning, Deep Learning
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLAlchemy-323232?style=for-the-badge&logo=sqlalchemy&logoColor=red" />
 </p>
+
+<p align="center"><img src="subdivider.svg" width="70%" height="2" /></p>
+<br/>
 
 ### ☁️ Cloud, DevOps & Tooling
 <p align="center">
@@ -106,6 +130,7 @@ I am specializing in **Applied AI, Data Science, Machine Learning, Deep Learning
 <img src="https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=green" />
 </p>
 
+<br/>
 <p align="center"><img src="divider.svg" width="100%" height="6" /></p>
 
 ## 🟩 Contribution Activity
