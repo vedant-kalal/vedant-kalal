@@ -1,8 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="vedant-kalal's GitHub profile" src="dark_mode.svg" />
-</picture>
+<p align="center">
+  <img alt="vedant-kalal's GitHub profile terminal reveal" src="portrait_reveal.svg" />
+</p>
 
 <!-- HERO ANIMATION -->
 <p align="center">
